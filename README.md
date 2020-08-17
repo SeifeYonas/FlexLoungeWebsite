@@ -1,3 +1,3 @@
-## FYCourse
+## FlexLounge
 
-Full Stack Web Application
+Buisness Website
