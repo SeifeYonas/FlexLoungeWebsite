@@ -1,0 +1,83 @@
+#centertitle {
+  text-align: center;
+  font-family: Sans-serif;
+}
+
+#centerlogo {
+  padding-left: 530px;
+}
+
+#parawidth {
+  font-size: 25px;
+  padding-left: 650px;
+  width: 1350px;
+}
+
+#roundprofilepicc {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.picss {
+  width: 200px;
+  margin-right: 150px;
+}
+
+#centimg {
+  padding-left: 550px;
+}
+
+#centaddy {
+  font-size: 25px;
+ 
+  width: 2000px;
+}
+
+#centhours {
+  font-size: 25px;
+  padding-left: 100px;
+  width: 2000px;
+}
+
+
+.fa {
+  padding-left: 275px;
+  font-size: 100px;
+  width: 50px;
+  text-decoration: none;
+  color: black;
+}
+
+hr {
+  width: 100%;
+  height: 2px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: black;
+  border: 0 none;
+}
+
+#centerprevent {
+ padding-left: 645px;
+}
+
+#centermeasures {
+  padding-left: 760px;
+}
+
+#aligncontact {
+  text-align: center;
+}
+
+#contactcolor {
+  color: maroon;
+}
+
+#centerpara {
+  padding-left: 10px;
+}
+
+#movefooter {
+  padding-left: 700px;
+}
